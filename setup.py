@@ -4,9 +4,9 @@ pip-tools keeps your pinned dependencies fresh.
 from setuptools import find_packages, setup
 
 setup(
-    name='pip-tools',
-    version='1.1.6o1',
-    url='https://github.com/nvie/pip-tools/',
+    name='pip-tools-optimizely',
+    version='1.1.6.post1',
+    url='https://github.com/optimizely/pip-tools/',
     license='BSD',
     author='Vincent Driessen',
     author_email='me@nvie.com',
