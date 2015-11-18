@@ -5,7 +5,7 @@ from setuptools import find_packages, setup
 
 setup(
     name='pip-tools-optimizely',
-    version='1.1.6.post1',
+    version='1.1.6.post2',
     url='https://github.com/optimizely/pip-tools/',
     license='BSD',
     author='Vincent Driessen',
